@@ -15,6 +15,8 @@ Toudles here! Still somewhat of a beginner coder with the goal of creating my ow
     - Description --> Allows users to create an email and gives them the option to read, delete, and send emails which are all stored in a permanent storage mechanism.
 - [Snake](https://github.com/Toudles/Snake) using python
     - Description --> [W.I.P] A simplified version of an old-time favorite game, Snake.
+  -[Car Game](https://github.com/Toudles/First-game)
+    - Description --> A simple but fun game to kill time. (Also my very first game!). Used Python/Pygame.
  
 # Connect with me! 
 <a href="[URL_REDIRECT](https://twitter.com/Touie_)" target="blank"><img align="center" src="https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png?raw=true" height="100" /></a>
