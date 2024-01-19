@@ -19,7 +19,7 @@ Toudles here! Still somewhat of a beginner coder with the goal of creating my ow
     - Description --> A simple but fun game to kill time. (Also my very first game!). Used Python/Pygame.
  
 # Connect with me! 
-[Email prototype](https://twitter.com/Touie_)
+[Twitter](https://twitter.com/Touie_)
 [Linkedin](https://www.linkedin.com/in/andrew-park-a3556b23b/)
 
 # Languages (Learned/Learning)
