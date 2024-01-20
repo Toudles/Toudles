@@ -6,6 +6,7 @@ Toudles here! Still somewhat of a beginner coder with the goal of creating my ow
 
 # To-do list
 - Learn C++ and how to create games with it on Unreal Engine.
+- Mess around with engines like GoDot to create mini-games
 - Create games via pygames.
 - Relearn/practice web development via html, css, javascript. (main goal is to create a website)
 - Expand first discord bot to more than just the default rock paper scissors.
