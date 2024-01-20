@@ -2,7 +2,7 @@
 Toudles here! Still somewhat of a beginner coder with the goal of creating my own games/working on big projects with companies I love ^-^
 
 # What I'm doing currently
-- Learning Java.
+- Learning Web Development
 
 # To-do list
 - Learn C++ and how to create games with it on Unreal Engine.
