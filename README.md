@@ -1,23 +1,15 @@
 # Welcome!
-Toudles here! Still somewhat of a beginner coder with the goal of creating my own games/working on big projects with companies I love ^-^
+Making cool websites and making games people fall in love with is a passion.
 
 # What I'm doing currently
-- Learning Web Development
+- Creating websites and making games.
 
 # To-do list
-- Learn C++ and how to create games with it on Unreal Engine.
-- Mess around with engines like GoDot to create mini-games
-- Create games via pygames.
-- Relearn/practice web development via html, css, javascript. (main goal is to create a website)
-- Expand first discord bot to more than just the default rock paper scissors.
+- Learn to be a good QA engineer.
+- Make cool websites.
 
 # Personal Projects
-- [Email prototype](https://github.com/Toudles/e-mail-prototype) using python
-    - Description --> Allows users to create an email and gives them the option to read, delete, and send emails which are all stored in a permanent storage mechanism.
-- [Snake](https://github.com/Toudles/Snake) using python
-    - Description --> [W.I.P] A simplified version of an old-time favorite game, Snake.
-- [Car Game](https://github.com/Toudles/First-game)
-    - Description --> A simple but fun game to kill time. (Also my very first game!). Used Python/Pygame.
+- W.I.P
  
 # Connect with me! 
 [Twitter](https://twitter.com/Touie_)
